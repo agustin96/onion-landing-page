@@ -7055,3 +7055,10 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/* Personalized Styles */
+
+.logo a img {
+  max-width: 100px;
+}

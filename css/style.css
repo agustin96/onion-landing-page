@@ -7059,6 +7059,7 @@ h6 {
 
 /* Personalized Styles */
 
+.footer_logo a img,
 .logo a img {
   max-width: 100px;
 }

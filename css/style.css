@@ -3497,7 +3497,7 @@ h3 {
 
 /* line 58, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area_2 {
-  padding-top: 100px;
+  padding-top: 170px;
 }
 
 /* line 60, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
@@ -3506,6 +3506,10 @@ h3 {
 }
 
 @media (max-width: 767px) {
+  .service_area_2 {
+    padding-top: 100px;
+  }
+
   /* line 60, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
   .service_area_2.plus_margin {
     margin-bottom: 40px;

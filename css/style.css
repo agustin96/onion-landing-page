@@ -3821,7 +3821,7 @@ h3 {
 /* line 1, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_prising.scss */
 .prising_area {
   padding-top: 170px;
-  padding-bottom: 150px;
+  padding-bottom: 0;
 }
 
 /* line 4, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_prising.scss */

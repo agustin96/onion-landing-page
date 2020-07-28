@@ -3551,54 +3551,61 @@ h3 {
 }
 
 /* line 84, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
-.service_area_2 .service_content_wrap {
+.service_content_area {
   padding-top: 90px;
   padding-bottom: 60px;
-  border-bottom: 1px solid #E8E8E8;
+  /* background-color: #38a4ff;
+  border-bottom: 1px solid #E8E8E8; */
+  background-image: url(../img/banner/banner.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 /* line 88, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
-.service_area_2 .service_content_wrap .single_service {
+.service_content_area .single_service {
   padding-right: 30px;
   margin-bottom: 30px;
 }
 
 @media (max-width: 767px) {
   /* line 88, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
-  .service_area_2 .service_content_wrap .single_service {
+  .service_content_area .single_service {
     padding-right: 0;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 88, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
-  .service_area_2 .service_content_wrap .single_service {
+  .service_content_area .single_service {
     padding-right: 0;
   }
 }
 
 /* line 97, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
-.service_area_2 .service_content_wrap .single_service span {
+.service_content_area .single_service span {
   font-size: 18px;
   font-weight: 300;
   color: #0181F5;
 }
 
 /* line 102, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
-.service_area_2 .service_content_wrap .single_service h3 {
+.service_content_area .single_service h3 {
   font-size: 24px;
   font-weight: 400;
-  color: #2C2C2C;
+  /* color: #2C2C2C; */
+  color: #fff;
   margin-bottom: 12px;
   margin-top: 8px;
 }
 
 /* line 109, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
-.service_area_2 .service_content_wrap .single_service p {
+.service_content_area .single_service p {
   font-size: 16px;
   font-weight: 400;
   line-height: 30px;
-  color: #727272;
+  color: #fff;
+  /* color: #727272; */
 }
 
 /* line 1, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_experts.scss */
